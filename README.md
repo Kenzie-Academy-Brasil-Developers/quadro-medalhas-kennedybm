@@ -1,4 +1,4 @@
-Projeto simples, mas que foi de muito aprendizado, desenvolvido com HTML5, CSS3, Javascript. 
+Projeto simples, mas que foi de muito aprendizado, desenvolvido com HTML5, CSS3, JavaScript. 
 Feito com JS vanilla, POO, DOM, também foi usado uma API da Kenzie para pegar todas as informações dos países.
 Quadro de medalhas mostra o ranking dos países, baseado na quantidade de madalhas, o usúario pode pesquisar por um país pelo nome, e filtrar por, ouro, prata e bronze.
 
